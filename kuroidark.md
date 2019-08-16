@@ -5,8 +5,4 @@ permalink: /kuroidark/
 ---
 
 
-
-# kuroidark
-
-about
-
+# There's Nothing Here NOW!
